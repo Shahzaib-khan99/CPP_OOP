@@ -19,7 +19,7 @@ class Derived1 : public Base {
     { 
         cout << "Derived1" << endl; 
     } 
-}; 
+};  
 // Derived2 class declaration 
 class Derived2 : public Base { 
    void print() 
