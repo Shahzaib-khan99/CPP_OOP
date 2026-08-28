@@ -7,7 +7,7 @@
 using namespace std; 
   // Base class declaration 
 class Base {   
-
+ 
     virtual void print() 
     { 
         cout << "Base" << endl; 
