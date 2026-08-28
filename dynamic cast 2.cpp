@@ -5,7 +5,7 @@
 #include <iostream>  
  
 using namespace std; 
-  // Base class declaration 
+ 
 class Base {   
  
     virtual void print() 
@@ -13,7 +13,7 @@ class Base {
         cout << "Base" << endl; 
     }  
 }; 
-// Derived1 class declaration 
+
 class Derived1 : public Base { 
     void print() 
     { 
