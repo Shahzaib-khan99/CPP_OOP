@@ -5,7 +5,7 @@
 #include <iostream> 
 
 using namespace std; 
-  // Base class declaration 
+  // Base class declaration
 class Base { 
 
     virtual void print() 
