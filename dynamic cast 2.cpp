@@ -9,7 +9,7 @@ using namespace std;
 class Base {   
  
     virtual void print() 
-    { 
+    {  
         cout << "Base" << endl; 
     }  
 }; 
