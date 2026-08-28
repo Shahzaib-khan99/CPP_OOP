@@ -11,7 +11,7 @@ class Base {
     virtual void print() 
     { 
         cout << "Base" << endl; 
-    } 
+    }  
 }; 
 // Derived1 class declaration 
 class Derived1 : public Base { 
