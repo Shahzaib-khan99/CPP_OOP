@@ -2,7 +2,7 @@
 // C++ Program demonstrate if the cast
 // fails and new_type is a pointer type 
 // it returns a null pointer of that type
-#include <iostream> 
+#include <iostream>  
 
 using namespace std; 
   // Base class declaration 
