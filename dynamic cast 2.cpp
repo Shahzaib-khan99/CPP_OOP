@@ -6,7 +6,7 @@
 
 using namespace std; 
   // Base class declaration 
-class Base {  
+class Base {   
 
     virtual void print() 
     { 
