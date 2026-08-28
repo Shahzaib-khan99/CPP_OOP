@@ -1,7 +1,7 @@
 
 // C++ Program demonstrate if the cast 
 // fails and new_type is a pointer type 
-// it returns a null pointer of that type 
+// it returns a null pointer of that type
 #include <iostream> 
 
 using namespace std; 
