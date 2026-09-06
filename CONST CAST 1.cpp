@@ -2,7 +2,7 @@
 using namespace std;
  
 class student    
-{ 
+{  
 private:
 	int roll;   
 public:  
