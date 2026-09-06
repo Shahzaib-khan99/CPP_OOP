@@ -5,7 +5,7 @@ class student
 {
 private:
 	int roll;  
-public:
+public: 
 	student(int r):roll(r) {}
 	// A const function that changes roll with the help of const_cast
 	void fun() const
