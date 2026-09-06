@@ -14,7 +14,7 @@ public:
 	}
 	int getRoll() { return roll; }
 };
-int main(void)
+int main(void) 
 {	student s(3);
 	cout << "Old roll number: " << s.getRoll() << endl;
 	s.fun();
