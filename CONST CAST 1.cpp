@@ -4,7 +4,7 @@ using namespace std;
 class student 
 {
 private:
-	int roll; 
+	int roll;  
 public:
 	student(int r):roll(r) {}
 	// A const function that changes roll with the help of const_cast
