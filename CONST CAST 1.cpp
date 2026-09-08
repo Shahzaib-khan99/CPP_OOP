@@ -12,7 +12,7 @@ public:
 	{  
 		( const_cast <student*> (this) )->roll = 5;
 	}  
-	int getRoll() { return roll; }
+	int getRoll() { return roll; } 
 };
 int main(void) 
 {	student s(3);
