@@ -11,7 +11,7 @@ public:
 	void fun() const 
 	{  
 		( const_cast <student*> (this) )->roll = 5;
-	}
+	} 
 	int getRoll() { return roll; }
 };
 int main(void) 
