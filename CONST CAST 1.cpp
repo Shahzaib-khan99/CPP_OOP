@@ -8,7 +8,7 @@ private:
 public:   
 	student(int r):roll(r) {} 
 	// A const function that changes roll with the help of const_cast 
-	void fun() const 
+	void fun() const  
 	{  
 		( const_cast <student*> (this) )->roll = 5;
 	}  
