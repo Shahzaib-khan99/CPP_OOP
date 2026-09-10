@@ -10,7 +10,7 @@ public:
 	// A const function that changes roll with the help of const_cast 
 	void fun() const  
 	{  
-		( const_cast <student*> (this) )->roll = 5; 
+		( const_cast <student*> (this) )->roll = 5;  
 	}  
 	int getRoll() { return roll; } 
 };
