@@ -3,7 +3,7 @@ using namespace std;
    
 class student          
 {              
-private:   
+private:    
 	int roll;          
 public:      
 	student(int r):roll(r) {} 
