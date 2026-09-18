@@ -19,6 +19,6 @@ int main(void)
 	cout << "Old roll number: " << s.getRoll() << endl;
 	s.fun(); 
 	cout << "New roll number: " << s.getRoll() << endl;
-	return 0;
+	return 0; 
 }
 
