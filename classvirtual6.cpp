@@ -2,7 +2,7 @@
 using namespace std;
 
 class sort {
-public:
+public: 
     int arr[50];
     int n;
 
