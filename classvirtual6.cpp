@@ -7,7 +7,7 @@ public:
     int n;
  
     public :
-    sort() { 
+    sort() {  
         cout<< "i am sorter class constructor" << endl;
     
     }
