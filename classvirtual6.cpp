@@ -30,7 +30,7 @@ public:
         }
     }
 };
-
+ 
 class bubble : virtual public sort 
 {
     public:
