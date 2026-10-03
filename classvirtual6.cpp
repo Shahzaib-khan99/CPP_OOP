@@ -5,7 +5,7 @@ class sort {
 public: 
     int arr[50];
     int n;
-
+ 
     public :
     sort() { 
         cout<< "i am sorter class constructor" << endl;
