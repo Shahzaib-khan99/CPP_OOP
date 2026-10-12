@@ -9,7 +9,7 @@ public:
         cout << "Root constructor\n";
     } 
 };
-
+ 
 class Left : virtual private Root {
 public:
     Left() { cout << "Left constructor\n"; }
