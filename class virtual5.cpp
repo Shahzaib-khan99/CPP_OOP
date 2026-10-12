@@ -23,7 +23,7 @@ public:
 class FinalNode : public Left, public Right {
 public:
     FinalNode() {
-        cout << "FinalNode constructor\n";
+        cout << "FinalNode constructor\n"; 
         cout << "Shared value from Root = " << value << endl;
     }
 
