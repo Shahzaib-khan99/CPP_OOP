@@ -19,7 +19,7 @@ class Right : virtual public Root {
 public:
     Right() { cout << "Right constructor\n"; }
 };
-
+ 
 class FinalNode : public Left, public Right {
 public:
     FinalNode() {
