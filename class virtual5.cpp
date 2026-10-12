@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+ 
 class Root {
 public:
     int value;
