@@ -7,7 +7,7 @@ public:
     Root() {
         value = 10;
         cout << "Root constructor\n";
-    }
+    } 
 };
 
 class Left : virtual private Root {
