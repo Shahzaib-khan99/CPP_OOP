@@ -6,7 +6,7 @@ public:
     int value;
     Root() {
         value = 10;
-        cout << "Root constructor\n";
+        cout << "Root constructor\n"; 
     } 
 };
  
